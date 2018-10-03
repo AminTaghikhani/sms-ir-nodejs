@@ -1,0 +1,22 @@
+{
+  "name": "sms-ir",
+  "version": "1.0.0",
+  "description": "SMS.ir website module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "Javascript"
+  ],
+  "author": {
+    "name": "Amin Taghikhani",
+    "email": "amin76taghikhani@gmail.com",
+    "url": "http://mynameisamin.ir"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
